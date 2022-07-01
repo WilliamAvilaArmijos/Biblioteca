@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Willirin\\Documents\\BANCO PICHINCHA\\Back End\\CLASES IT\\William Avila\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\Curso.Biblioteca.Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\Willirin\\Documents\\GitHub\\Biblioteca\\William Avila\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\Curso.Biblioteca.Dominio.csproj",
       "projectName": "Curso.Biblioteca.Dominio",
-      "projectPath": "C:\\Users\\Willirin\\Documents\\BANCO PICHINCHA\\Back End\\CLASES IT\\William Avila\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\Curso.Biblioteca.Dominio.csproj",
+      "projectPath": "C:\\Users\\Willirin\\Documents\\GitHub\\Biblioteca\\William Avila\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\Curso.Biblioteca.Dominio.csproj",
       "packagesPath": "C:\\Users\\Willirin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Willirin\\Documents\\BANCO PICHINCHA\\Back End\\CLASES IT\\William Avila\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\obj\\",
+      "outputPath": "C:\\Users\\Willirin\\Documents\\GitHub\\Biblioteca\\William Avila\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Willirin\\AppData\\Roaming\\NuGet\\NuGet.Config",

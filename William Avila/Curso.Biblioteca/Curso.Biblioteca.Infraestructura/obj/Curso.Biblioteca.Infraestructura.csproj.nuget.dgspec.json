@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Willirin\\Documents\\BANCO PICHINCHA\\Back End\\CLASES IT\\William Avila\\Curso.Biblioteca\\Curso.Biblioteca.Infraestructura\\Curso.Biblioteca.Infraestructura.csproj": {}
+    "C:\\Users\\Willirin\\Documents\\GitHub\\Biblioteca\\William Avila\\Curso.Biblioteca\\Curso.Biblioteca.Infraestructura\\Curso.Biblioteca.Infraestructura.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Willirin\\Documents\\BANCO PICHINCHA\\Back End\\CLASES IT\\William Avila\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\Curso.Biblioteca.Dominio.csproj": {
+    "C:\\Users\\Willirin\\Documents\\GitHub\\Biblioteca\\William Avila\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\Curso.Biblioteca.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Willirin\\Documents\\BANCO PICHINCHA\\Back End\\CLASES IT\\William Avila\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\Curso.Biblioteca.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\Willirin\\Documents\\GitHub\\Biblioteca\\William Avila\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\Curso.Biblioteca.Dominio.csproj",
         "projectName": "Curso.Biblioteca.Dominio",
-        "projectPath": "C:\\Users\\Willirin\\Documents\\BANCO PICHINCHA\\Back End\\CLASES IT\\William Avila\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\Curso.Biblioteca.Dominio.csproj",
+        "projectPath": "C:\\Users\\Willirin\\Documents\\GitHub\\Biblioteca\\William Avila\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\Curso.Biblioteca.Dominio.csproj",
         "packagesPath": "C:\\Users\\Willirin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Willirin\\Documents\\BANCO PICHINCHA\\Back End\\CLASES IT\\William Avila\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\obj\\",
+        "outputPath": "C:\\Users\\Willirin\\Documents\\GitHub\\Biblioteca\\William Avila\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Willirin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\Willirin\\Documents\\BANCO PICHINCHA\\Back End\\CLASES IT\\William Avila\\Curso.Biblioteca\\Curso.Biblioteca.Infraestructura\\Curso.Biblioteca.Infraestructura.csproj": {
+    "C:\\Users\\Willirin\\Documents\\GitHub\\Biblioteca\\William Avila\\Curso.Biblioteca\\Curso.Biblioteca.Infraestructura\\Curso.Biblioteca.Infraestructura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Willirin\\Documents\\BANCO PICHINCHA\\Back End\\CLASES IT\\William Avila\\Curso.Biblioteca\\Curso.Biblioteca.Infraestructura\\Curso.Biblioteca.Infraestructura.csproj",
+        "projectUniqueName": "C:\\Users\\Willirin\\Documents\\GitHub\\Biblioteca\\William Avila\\Curso.Biblioteca\\Curso.Biblioteca.Infraestructura\\Curso.Biblioteca.Infraestructura.csproj",
         "projectName": "Curso.Biblioteca.Infraestructura",
-        "projectPath": "C:\\Users\\Willirin\\Documents\\BANCO PICHINCHA\\Back End\\CLASES IT\\William Avila\\Curso.Biblioteca\\Curso.Biblioteca.Infraestructura\\Curso.Biblioteca.Infraestructura.csproj",
+        "projectPath": "C:\\Users\\Willirin\\Documents\\GitHub\\Biblioteca\\William Avila\\Curso.Biblioteca\\Curso.Biblioteca.Infraestructura\\Curso.Biblioteca.Infraestructura.csproj",
         "packagesPath": "C:\\Users\\Willirin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Willirin\\Documents\\BANCO PICHINCHA\\Back End\\CLASES IT\\William Avila\\Curso.Biblioteca\\Curso.Biblioteca.Infraestructura\\obj\\",
+        "outputPath": "C:\\Users\\Willirin\\Documents\\GitHub\\Biblioteca\\William Avila\\Curso.Biblioteca\\Curso.Biblioteca.Infraestructura\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Willirin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Willirin\\Documents\\BANCO PICHINCHA\\Back End\\CLASES IT\\William Avila\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\Curso.Biblioteca.Dominio.csproj": {
-                "projectPath": "C:\\Users\\Willirin\\Documents\\BANCO PICHINCHA\\Back End\\CLASES IT\\William Avila\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\Curso.Biblioteca.Dominio.csproj"
+              "C:\\Users\\Willirin\\Documents\\GitHub\\Biblioteca\\William Avila\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\Curso.Biblioteca.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Willirin\\Documents\\GitHub\\Biblioteca\\William Avila\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\Curso.Biblioteca.Dominio.csproj"
               }
             }
           }

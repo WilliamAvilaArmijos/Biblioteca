@@ -1,0 +1,163 @@
+{
+	"info": {
+		"_postman_id": "d510bd4d-0d6a-4bb0-bb0a-21d55ebd952e",
+		"name": "Curso.Net",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "11319216"
+	},
+	"item": [
+		{
+			"name": "Autor",
+			"item": [
+				{
+					"name": "GetAllAutor",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:7030/api/Autor",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7030",
+							"path": [
+								"api",
+								"Autor"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetByIdAutor",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:7030/api/Autor/:code",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7030",
+							"path": [
+								"api",
+								"Autor",
+								":code"
+							],
+							"variable": [
+								{
+									"key": "code",
+									"value": null
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PostAutor",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"nombre\": \"Miguel\",\r\n  \"apellido\": \"Cervantes\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:7030/api/Autor",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7030",
+							"path": [
+								"api",
+								"Autor"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PutAutor",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"nombre\": \"Miguel de\",\r\n  \"apellido\": \"Cervantes\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:7030/api/Autor/?id=4",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7030",
+							"path": [
+								"api",
+								"Autor",
+								""
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "4"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DeleteAutor",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"isDelete\": true,\r\n  \"creationDate\": \"2022-06-30T15:24:22.432Z\",\r\n  \"modifiedDate\": \"2022-06-30T15:24:22.432Z\",\r\n  \"code\": \"5\",\r\n  \"description\": \"string\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:7030/api/Autor/:code",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7030",
+							"path": [
+								"api",
+								"Autor",
+								":code"
+							],
+							"variable": [
+								{
+									"key": "code",
+									"value": "5"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

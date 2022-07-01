@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+f23RPc9ATN/fgXUMEFLoofX5BCjFzs58I9GXabmwcVvoARhSyV0saJR0IdJYKqeXbO3pVkb63RdZlZDkRXL0w==",
+  "dgSpecHash": "iCe6vm/2B9xV2EcF6TqCjRvjoINsISga2NTdF07l+TFuF6oNEJy9AulZ43Uk9KpRwY4mTN+IQ1+45inVshzF8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Willirin\\Documents\\BANCO PICHINCHA\\Back End\\CLASES IT\\William Avila\\Curso.Biblioteca\\Curso.Biblioteca.Aplicacion\\Curso.Biblioteca.Aplicacion.csproj",
+  "projectFilePath": "C:\\Users\\Willirin\\Documents\\GitHub\\Biblioteca\\William Avila\\Curso.Biblioteca\\Curso.Biblioteca.Aplicacion\\Curso.Biblioteca.Aplicacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Willirin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Willirin\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

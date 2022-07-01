@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "52VDxzBHf6HaUJluMMrTWSmA5T21ttWHF0DiNL/Vs6gD1svGu82LJE/QlSHDjUMwmI06Up3lRL55ASxseuKRkA==",
+  "dgSpecHash": "dQEKthR+M72RGDDMnGuS41sKgqRA8ZF6G4mwhCqr7/SWVu44VWeyWEK3D45pBAplr84xbPmYXPqj4Z0OKr8LbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Willirin\\Documents\\BANCO PICHINCHA\\Back End\\CLASES IT\\William Avila\\Curso.Biblioteca\\Curso.Biblioteca.Infraestructura\\Curso.Biblioteca.Infraestructura.csproj",
+  "projectFilePath": "C:\\Users\\Willirin\\Documents\\GitHub\\Biblioteca\\William Avila\\Curso.Biblioteca\\Curso.Biblioteca.Infraestructura\\Curso.Biblioteca.Infraestructura.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Willirin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Willirin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
